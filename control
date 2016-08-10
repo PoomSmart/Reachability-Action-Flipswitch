@@ -1,0 +1,9 @@
+Package: org.thebigboss.reachabilityactionflipswitch
+Name: Reachability Action Flipswitch
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Toggle Reachability mode.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Addons (Flipswitch)
